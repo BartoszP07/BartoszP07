@@ -1,6 +1,6 @@
 # Hi, I'm Bartosz Piotrowski (🇵🇱)
 ## 🤔 Some things about me:
-🧑‍💻Computer Science student at the University of Durham<br>📖I like learning new stuff which challenge me<br>😤Not a fan of vibe coding<br>🎉Never vibe coded.
+🧑‍💻Computer Science student at the University of Durham<br>📖I like learning new things that challenge me<br>😤Not a fan of vibe coding
 
 
 ## 🌐 Socials:
